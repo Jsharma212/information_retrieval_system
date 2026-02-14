@@ -8,6 +8,11 @@ Store these semantic index to vector DB using FAISS.
 
 #video link - https://www.youtube.com/watch?v=X193V1CSZZE
 
+Steps for git push
+git add .
+git commit -m "changes updated"
+git push origin main
+
 
 
 
