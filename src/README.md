@@ -6,6 +6,8 @@ Apply embeddings model to convert text to vector or numbers or vector embeddings
 We will building semantic index
 Store these semantic index to vector DB using FAISS.
 
+#video link - https://www.youtube.com/watch?v=X193V1CSZZE
+
 
 
 
